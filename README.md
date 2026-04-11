@@ -3,6 +3,13 @@ Interactive Sales and Revenue Dashboard built using MS Excel with data analysis 
 
 ---
 
+## 🖼️ Dashboard Preview
+![Dashboard Screenshot](Dashboard.png)
+
+> *Note: Since GitHub does not preview Excel files directly, please refer to the screenshot above or download the `.xlsx` file to explore the interactivity.*
+
+---
+
 # 📊 Sales & Revenue Performance Dashboard Project - Supermart Store Analysis 
 
 ---
@@ -28,13 +35,6 @@ This project involves a comprehensive analysis of sales data and generate meanin
 
 ---
 
-## 🖼️ Dashboard Preview
-![Dashboard Screenshot](Dashboard.png)
-
-> *Note: Since GitHub does not preview Excel files directly, please refer to the screenshot above or download the `.xlsx` file to explore the interactivity.*
-
----
-
 ## 📈 Key Insights from Analysis
 1. **High Performing Category:** Category 04 contributed significantly to the total revenue.
 2. **Preferred Payment Mode:** A large portion of sales were driven by Online payments.
@@ -55,3 +55,8 @@ Through this project, I improved my skills in:
 **Name:** Prem Tiwary  
 **Email:** premtiwary7050@gmail.com 
 **LinkedIn:** www.linkedin.com/in/prem-tiwary
+
+---
+
+## License
+This repository is for demonstration and learning purposes. Feel free to reuse the code with attribution.
