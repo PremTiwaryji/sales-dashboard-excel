@@ -51,7 +51,7 @@ Through this project, I improved my skills in:
 
 ---
 
-## Author 
+## 🔗 Author 
 **Name:** Prem Tiwary  
 **Email:** premtiwary7050@gmail.com 
 **LinkedIn:** www.linkedin.com/in/prem-tiwary
